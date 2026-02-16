@@ -12,7 +12,6 @@ class StudentDashboardScreen extends StatefulWidget {
 }
 
 class _StudentDashboardScreenState extends State<StudentDashboardScreen> {
-  late Future<Map<String, dynamic>> _statsFuture;
   bool _showOverallAttendance = false;
 
   // Subject data structure
@@ -63,8 +62,6 @@ class _StudentDashboardScreenState extends State<StudentDashboardScreen> {
 
   void _loadStats() {
     setState(() {
-      _statsFuture = ApiService.fetchStudentStats(
-          ApiService.currentUserId ?? "2301105277");
     });
   }
 
