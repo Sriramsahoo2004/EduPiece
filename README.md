@@ -270,8 +270,8 @@ This project is licensed under the **MIT License**.
 
 If you need help setting up EduPiece, customizing the app, or scaling the backend, feel free to reach out.
 
-- Email: support@edupiece.com
-- GitHub: https://github.com/YOUR_USERNAME/EduPiece
+- Email: sriramsahoo9937@gmail.com.com
+- GitHub: https://github.com/Sriramsahoo@004/EduPiece
 
 ---
 
