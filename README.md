@@ -258,14 +258,6 @@ git commit -am "Add your feature"
 git push origin feature/your-feature
 ```
 
----
-
-## 📜 License
-
-This project is licensed under the **MIT License**.
-
----
-
 ## 💬 Support
 
 If you need help setting up EduPiece, customizing the app, or scaling the backend, feel free to reach out.
