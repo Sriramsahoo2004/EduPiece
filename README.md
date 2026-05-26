@@ -270,8 +270,3 @@ If you need help setting up EduPiece, customizing the app, or scaling the backen
 ## ✨ Final Note
 
 EduPiece is built to feel **premium, polished, and production-ready** — a complete digital campus companion that blends usability, automation, and design quality into one cohesive platform.
-
-If you want, I can also generate:
-1. a **super-animated README version with badges + animations**,
-2. a **GitHub-style README with installation badges**, or
-3. a **shorter, cleaner README for portfolio use**.
